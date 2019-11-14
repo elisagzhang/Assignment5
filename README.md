@@ -11,8 +11,10 @@ We will be conducting an interview with participatory observation as our researc
 
 [Link to contextual inquiry guide](https://drive.google.com/file/d/16Ez0L_EUCtnXJGYERHPnu2Xy5Owe541z/view?usp=sharing)
 
-[Link to interview video recording]
+[Link to interview video recording](https://drive.google.com/file/d/1LOlnbcVuX9KVu0NDll3QPk8NVd_jXsL_/view?usp=sharing)
 
 ### Interview Transcript
 
 ### Reflection
+
+I think that I was a little confused as to what to do when I was creating the script, so my script was a little messy. I tend to have expectations as to what the interviewee will respond to prompts. So sometimes when the interviewee doesn't act or do what I expect, I get a little thrown off and confused. I think the broadness of the prompts led to some unexpected responses. Another thing is that I kind of jumped around with the questions and sometimes forgot about some questions, so next time I want to be more orderly about how I ask the questions. I really liked that my interviewee was very vocal about what she was doing and I think that I was better at prompting them to do things verbally.
