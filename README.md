@@ -9,7 +9,7 @@ We will be conducting an interview with participatory observation as our researc
 
 ### Materials and Data
 
-[Link to contextual inquiry guide]
+[Link to contextual inquiry guide](https://drive.google.com/file/d/16Ez0L_EUCtnXJGYERHPnu2Xy5Owe541z/view?usp=sharing)
 
 [Link to interview video recording]
 
