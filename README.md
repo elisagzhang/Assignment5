@@ -4,3 +4,9 @@ The main activity for this assignment is to see how people find information abou
 Users can be anyone, as we all might need to take medicine at some point. But people who do this activity are more likely people who are sick or more prone to getting sick. Young adults who are starting to independently care for their health and the eldery who might have deterioring health would also do this activity. It can be done anyware, as long as there is an internet connected device to allow the user to find information.
 
 We will be conducting an interview with participatory observation as our research method.
+
+[Link to contextual inquiry guide]
+
+[Link to interview video recording]
+
+####Interview Transcript
