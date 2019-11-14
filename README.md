@@ -69,7 +69,8 @@ FURTHER QUESTIONS
 - for finding local treatments, she thinks that it was hard to find and probably would have to go to maps or yelp to find places
 
 - she would like something for treatments and medications
-- shows all the brands, major side effects, how to take it, what you can and cannot do with it, wha
+  - shows all the brands, major side effects, how to take it, what you can and cannot do with it, what it helps treat, ranks medication on how well it treats certain problems
+
 
 
 ### Reflection
