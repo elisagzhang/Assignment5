@@ -1,4 +1,3 @@
-# Assignment5
 
 The main activity for this assignment is to see how people find information about drugs and medicine. The basic need involved is safety because it involves the health and well-being of people. People get information from advertsiements, books, newspapers, magazines, television, and also seek help from medical professinals. More specifically for this study, we are looking at how people find this information through the internet. There is currently a lot of information online, but it isn't always trustworthy. I think the implementation of a accurately currated, organized, online database would be very useful to the users.
 
