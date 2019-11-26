@@ -15,6 +15,8 @@ We will be conducting an interview with participatory observation as our researc
 
 ### Interview Transcript/Notes
 
+[Link to full transcript](https://drive.google.com/file/d/14g6xIWwDVOvW_2QMh_q76yJojnrDwgRF/view?usp=sharing)
+
 INTRO
 
 - usually uses her computer at home to watch youtube
